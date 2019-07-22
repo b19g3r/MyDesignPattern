@@ -1,4 +1,4 @@
-package com.shane.designPattern.factory;
+package com.shane.designPattern.factory.simpleFactory;
 
 /**
  * 简单工厂模式
